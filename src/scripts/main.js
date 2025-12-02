@@ -18,7 +18,7 @@ function atualizaContador() {
   const segundos = Math.floor((diferenca % (1000 * 60)) / 1000);
 
   contador.innerHTML = `
-    O maior evento de tecnologia do Brasil começa em 
+    A maior festa do Ano começa em 
     <strong>${dias}d</strong>
     <strong>${horas}h</strong>
     <strong>${minutos}m</strong>
