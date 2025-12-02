@@ -3,21 +3,18 @@
 .event {
   padding: 80px 0;
 
-  &--frontend {
+  &--openbar {
     background-image: linear-gradient(variaveis.$blue1,variaveis.$blue2);
   }
 
-  &--ui-ux {
+  &--openfood {
     background-image: linear-gradient(variaveis.$blue2,variaveis.$red);
   }
 
-  &--data-science {
+  &--musica {
     background-image: linear-gradient(variaveis.$red,variaveis.$yellow);
   }
 
-  &--backend {
-    background-image: linear-gradient(variaveis.$yellow,variaveis.$red);
-  }
 
   &--image-left {
     .container {
